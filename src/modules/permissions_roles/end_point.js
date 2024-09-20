@@ -1,0 +1,5 @@
+export const GET_ALL_USERS='/role-permission/get-all-users'
+export const GET_ALL_ROLES='/role-permission/get-all-roles'
+export const GET_ALL_PERMISSION='/role-permission/get-all-permissions'
+export const ROLE2USER='/role-permission/assign-role-to-user'
+export const PERMISIONS2ROLE='/role-permission/giv-permissions-to-role'
